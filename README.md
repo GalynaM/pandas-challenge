@@ -28,9 +28,9 @@ V. Purchasing Analysis by items
    ![image](https://github.com/user-attachments/assets/fb2ee99b-5dce-4f41-95fb-4c335cb86b93)
 
 # Analysis of the fantasy game Heroes of Pymoli
-Players of Male gender constitute the majority of all players: 84.03%.
-Purchases made by Male gender players make the majority of the total revenue: 1967.64 USD out of 2379.77 USD.
-The majority of all Players fall into 20-24 years age category: 44.79%.
-Players in 20-24 age category are also the most active purchasers: 1114.06 USD.
-The most profitable items (4.23 USD: 4.61 USD) are not the most expensive ones (4.93 USD : 4.99 USD).
+- Players of Male gender constitute the majority of all players: 84.03%.
+- Purchases made by Male gender players make the majority of the total revenue: 1967.64 USD out of 2379.77 USD.
+- The majority of all Players fall into 20-24 years age category: 44.79%.
+- Players in 20-24 age category are also the most active purchasers: 1114.06 USD.
+- The most profitable items (4.23 USD: 4.61 USD) are not the most expensive ones (4.93 USD : 4.99 USD).
    
