@@ -1,12 +1,10 @@
 ## Game "Heroes of Pymoli".
 ### The Task is to do the Purchase Analysis for the items in the game "Heroes of Pymoli" using Pandas.
 
-### I. Game Items Purchase Analysis
-* ![image](https://github.com/user-attachments/assets/9fb9298e-586f-4e16-9261-6c483f5472f1)
+### I. Game Items Purchase Analysis ![image](https://github.com/user-attachments/assets/9fb9298e-586f-4e16-9261-6c483f5472f1)
 
 ### II. Players Demographics analysis
-#### 1. Percentage and Counts of players by Gender.
-   * ![image](https://github.com/user-attachments/assets/b5095886-4ee3-4be3-8958-e58eefee4683)
+#### 1. Percentage and Counts of players by Gender.![image](https://github.com/user-attachments/assets/b5095886-4ee3-4be3-8958-e58eefee4683)
 #### 2. Purchasing Analysis by Gender.
    * ![image](https://github.com/user-attachments/assets/5789f56a-c45f-4ac3-96c6-bdf983b419cd)
 #### 3. Age Demographics.
